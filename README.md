@@ -1,5 +1,6 @@
 <div align="center">
-![Screenshot 2024-05-22 at 5 42 02 PM](https://github.com/laurarvegav/laurarvegav/assets/149700247/bb4cb98c-7df4-4099-8431-35d65ed2abd3)
+  
+  ![Screenshot 2024-05-22 at 5 42 02 PM](https://github.com/laurarvegav/laurarvegav/assets/149700247/bb4cb98c-7df4-4099-8431-35d65ed2abd3)
 
 <p align="center">
 I am a dedicated Industrial & Back End Sofware Engineer committed to continuous improvement and building community for a positive global impact,
