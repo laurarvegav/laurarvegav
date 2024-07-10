@@ -1,6 +1,6 @@
 <div align="center">
 
-![Screenshot 2024-05-22 at 5 42 02 PM](https://gist.github.com/assets/149700247/aa88112a-45d1-4232-90a4-ca353ee82b90)
+<img src="https://gist.github.com/assets/149700247/aa88112a-45d1-4232-90a4-ca353ee82b90" height="200px">
 
 <p align="center">
 I am a dedicated Industrial & Back End Sofware Engineer committed to continuous improvement and building community for a positive global impact,
