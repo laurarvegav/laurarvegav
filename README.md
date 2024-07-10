@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://gist.github.com/assets/149700247/aa88112a-45d1-4232-90a4-ca353ee82b90" height="200px">
+![Screenshot 2024-05-22 at 5 42 02 PM](https://github.com/laurarvegav/laurarvegav/assets/149700247/bb4cb98c-7df4-4099-8431-35d65ed2abd3)
 
 <p align="center">
 I am a dedicated Industrial & Back End Sofware Engineer committed to continuous improvement and building community for a positive global impact,
@@ -27,8 +26,8 @@ Passionate about creating meaningful and lasting change.
 <h1 align="center">Contact information: </h1>
 <p align="center">
  My LinkedIn profile: <a href="https://www.linkedin.com/in/laurarvegav/">LinkedIn</a></br>
- My email: <a href="https://www.linkedin.com/in/laurarvegav/">ing.laurarvega@gmail.com</a>
- My resume: <a href="https://docs.google.com/document/d/1bBDbAT0fajvCbm6GQ-tNxsTTFwZarFg7/edit"></a>
+ My email: <a href="https://www.linkedin.com/in/laurarvegav/">ing.laurarvega@gmail.com</a></br>
+ My resume: <a href="https://docs.google.com/document/d/1bBDbAT0fajvCbm6GQ-tNxsTTFwZarFg7/edit">Google Drive</a>
 </p>
 </div>
 <details>
